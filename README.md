@@ -8,7 +8,7 @@ Install [Violentmonkey](https://violentmonkey.github.io/) or [Greasemonkey](http
 
 #### How do I use this?
 
-1. Open the volume slider and press ALT + V (_ALT_ernate _V_olume).
+1. Open the volume slider and press ALT + V (<i>ALT</i>ernate <i>V</i>olume).
 2. Profit? (Or perhaps world domination)
 
 #### How did the Amazon Music people, famously part of the FAANG society not think of this?
