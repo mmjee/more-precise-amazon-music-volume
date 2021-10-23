@@ -4,7 +4,7 @@ A simple userscript to reduce the stepping on Amazon Music from 0.1 to 0.01 (so 
 
 #### How do I install this?
 
-Install [Violentmonkey](https://violentmonkey.github.io/) or [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) and then [**click here**](https://raw.githubusercontent.com/mmjee/more-precise-amazon-music-volume/master/userscript.js).
+Install [Violentmonkey](https://violentmonkey.github.io/) or [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) and then [**click here**](https://github.com/mmjee/more-precise-amazon-music-volume/raw/master/userscript.js).
 
 #### How did the Amazon Music people, famously part of the FAANG society not think of this?
 
